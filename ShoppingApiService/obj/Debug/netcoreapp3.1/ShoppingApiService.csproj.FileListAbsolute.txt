@@ -1,0 +1,15 @@
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.csproj.AssemblyReference.cache
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.AssemblyInfoInputs.cache
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.AssemblyInfo.cs
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.csproj.CoreCompileInputs.cache
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiService.deps.json
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiService.dll
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiService.pdb
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiModal.dll
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiRepository.dll
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiModal.pdb
+D:\C#\OnlineShoppingApi\ShoppingApiService\bin\Debug\netcoreapp3.1\ShoppingApiRepository.pdb
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.csproj.CopyComplete
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.dll
+D:\C#\OnlineShoppingApi\ShoppingApiService\obj\Debug\netcoreapp3.1\ShoppingApiService.pdb
